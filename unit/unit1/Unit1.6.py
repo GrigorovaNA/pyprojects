@@ -23,5 +23,5 @@ while True:
     a *= 1.1
     day += 1
     if a >= b:
-        print(day, "-й день:", round(a,2))
+        print(day, "-й день:", round(a, 2))
         break
